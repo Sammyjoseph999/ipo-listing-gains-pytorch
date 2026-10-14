@@ -50,3 +50,7 @@ jupyter notebook notebook.ipynb
 Seeds are fixed, so the numbers above should reproduce on CPU. Small differences are possible between PyTorch versions.
 
 This is a modelling exercise and not investment advice.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
