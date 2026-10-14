@@ -1,5 +1,7 @@
 # Predicting listing gains in the Indian IPO market with PyTorch
 
+[![notebook](https://github.com/Sammyjoseph999/ipo-listing-gains-pytorch/actions/workflows/notebook.yml/badge.svg)](https://github.com/Sammyjoseph999/ipo-listing-gains-pytorch/actions/workflows/notebook.yml)
+
 Can the demand for an IPO, measured before it lists, tell you whether the share will open above its issue price? This notebook builds a binary classifier in PyTorch on 319 Indian IPOs from 2010 to 2022, and checks it against a much simpler model.
 
 The project follows the brief of a Dataquest guided project. The analysis, code and conclusions are my own.
